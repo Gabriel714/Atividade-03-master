@@ -15,6 +15,7 @@ namespace Atividade_03
             Console.WriteLine("5 commits concluídos!");
             Console.WriteLine("Matheus");
             Console.WriteLine("Gabriel");
+            Console.WriteLine("Thales");
 
 
         }
